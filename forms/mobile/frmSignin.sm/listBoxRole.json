@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s4906d2c4c5a4f5694d81ef97afb27f0",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "47%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "dropdown.png",
+    "focusskin": "s652c7165453466f92d588be8d3554f0",
+    "groupcells": false,
+    "id": "listBoxRole",
+    "info": null,
+    "iphone": {
+        "placeholder": "Area Manager"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "if1357685e40405d8394ec01d965eac1",
+    "masterdata": [
+        [
+            "lb1",
+            "Area Manager"
+        ],
+        [
+            "lb2",
+            "Sales Representative"
+        ],
+        [
+            "lb3",
+            "Area Head"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxRoleInfo",
+    "pf": "frmSignin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

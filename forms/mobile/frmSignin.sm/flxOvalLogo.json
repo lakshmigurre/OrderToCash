@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "-30dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sd5935b05f7747df8f10dbaa35a355b3",
+    "_top_": {
+        "type": "string",
+        "value": "-7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgNovartisLogo"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxOvalLogo",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j2c8ed41457b4f9aac6e4b61f35507b7",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmSignin",
+    "pf": "frmSignin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

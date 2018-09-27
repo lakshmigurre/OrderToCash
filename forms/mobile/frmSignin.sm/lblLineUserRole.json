@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        80,
+        0
+    ],
+    "_skin_": "se69dd6a770b4632a6136ad0465f480e",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "280dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "85%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblLineUserRole",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cafadd59c17a4401b89953a3a0e3df92",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxUserRole",
+    "pf": "frmSignin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 2
+}

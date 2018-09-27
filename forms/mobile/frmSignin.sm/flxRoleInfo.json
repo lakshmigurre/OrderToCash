@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "47dp"
+    },
+    "_skin_": "s01efb1787e742919aad4d6107347c1a",
+    "_top_": {
+        "type": "string",
+        "value": "272dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "280dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblUserRole",
+        "listBoxRole",
+        "flxSeparator2"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxRoleInfo",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "da99212cc050406e972a543cf97222f0",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmSignin",
+    "pf": "frmSignin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
